@@ -1,0 +1,12 @@
+{
+  "name": "Qubes Theme",
+  "component": false,
+  "license_url": "https://github.com/deeplow/discourse-qubes-theme/blob/master/LICENSE",
+  "about_url": "https://github.com/deeplow/discourse-qubes-theme/blob/master/README.md",
+  "authors": "deeplow",
+  "assets": {
+  },
+  "color_schemes": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
